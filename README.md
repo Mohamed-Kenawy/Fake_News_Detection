@@ -6,7 +6,8 @@ This project focuses on detecting fake news articles using Natural Language Proc
 ## 📂 Dataset
 The project uses:
 - **Fake.csv** → Fake news articles
-- **True.csv** → Real news articles  
+- **True.csv** → Real news articles
+- Data link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv
 
 ## Preprocessing Steps:
 - Merge datasets and assign labels (`0` = fake, `1` = real)
