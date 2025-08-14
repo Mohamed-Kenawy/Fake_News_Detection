@@ -17,6 +17,9 @@ The project uses:
 - Tokenize, remove stopwords, and lemmatize words
 - Combine `title` and `text` into a single `content` column
 
+## Visualization:
+- **WordCloud** visualization for most frequent words
+
 ##  Model Used
 - **Support Vector Machine (SVM)** 
 
@@ -28,7 +31,7 @@ The project uses:
 - **F1-Score**
 - **Classification Report**
 - **Confusion Matrix**
-- **WordCloud** visualization for most frequent words
+
 
 ## 🔮 Example Results 
 | Model                | Accuracy | F1-Score |
